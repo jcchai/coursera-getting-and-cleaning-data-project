@@ -26,10 +26,6 @@ You should create one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average 
    of each variable for each activity and each subject.
 
-##Tools used to produce this project
-- This project is built by `knirt` package instllled on RStudio with RMD (R Markdown) format.
-
-- The  `run_analysis.md` and `codebook.md` files will be  automatically  produced by `run_analysis.Rmd` 
 
 ##Steps to produce this project
 
